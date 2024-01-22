@@ -20,7 +20,7 @@ export default function Home() {
             ></Header>
             <main>
                 {
-                    !disableMenu && <Menu disableMenu={disableMenu}></Menu>
+                    !disableMenu && <Menu disableMenu={disableMenu}>123</Menu>
                 }
             </main>
         </>
