@@ -1,0 +1,18 @@
+[
+    {
+        "group_id": "1",
+        "config": {
+            
+        },
+        "shape": [
+            {
+                "shape_id" : "1"
+            }
+        ],
+        "text": [
+            {
+                "text_id" : "1"
+            }
+        ]
+    }
+]

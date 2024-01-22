@@ -1,0 +1,76 @@
+{
+    "workplaces": [
+        {
+            "id": "workplace_id_1",
+            "title": "workplace",
+            "description": "workplace test"
+        }
+    ],
+    "stages": [
+        {
+            "id": "stage_id_1",
+            "config": {
+                "width": 100,
+                "height": 100
+            },
+            "workplaceId": "workplace_id_1"
+            
+        },
+        {
+            "id": "stage_id_2",
+            "config": {
+                "width": 100,
+                "height": 100
+            },
+            "workplaceId": "workplace_id_1"
+            
+        }
+    ],
+    "layers": [
+        {
+            "id": "layer_id_1",
+            "config": {
+
+            },
+            "stageId": "stage_id_1"
+            
+        },
+        {
+            "id": "layer_id_2",
+            "config": {
+
+            },
+            "stageId": "stage_id_2"
+            
+        }
+    ],
+    "groups": [
+        {
+            "id": "group_id_1",
+            "config": {
+
+            },
+            "layerId": "layer_id_1"
+        }
+    ],
+    "shapes": [
+        {
+            "id": "shape_id_1",
+            "config": {
+
+            },
+            "layerId":"",
+            "groupId":""
+        }
+    ],
+    "texts": [
+        {
+            "id": "text_id_1",
+            "config": {
+                
+            },
+            "layerId":"",
+            "groupId":""
+        }
+    ]
+}

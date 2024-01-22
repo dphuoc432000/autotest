@@ -1,0 +1,5 @@
+.ul{
+    width: 0%;
+    background-color: brown;
+    transition: width 2s
+}
